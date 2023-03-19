@@ -1,4 +1,4 @@
-# -To-do-list
+# TO DO LIST
 ![To-do-list-image](images/share.png)
 ## Demo 
 https://marcin-gajewski7.github.io/-To-do-list/
