@@ -3,7 +3,7 @@
 ## Demo 
 https://marcin-gajewski7.github.io/-To-do-list/
 ## Description:
-The currency calculator converts PLN into three other units: EUR, USD, ISK. In the projection, I focused on the simplicity and readability of the product.
+List of tasks with the ability to change the status of a completed task and remove unnecessary items.
 ## Technolohies used in this project:
 - HTML
 - CSS
