@@ -1,0 +1,12 @@
+# -To-do-list
+![To-do-list-image](images/share.png)
+## Demo 
+https://marcin-gajewski7.github.io/-To-do-list/
+## Description:
+The currency calculator converts PLN into three other units: EUR, USD, ISK. In the projection, I focused on the simplicity and readability of the product.
+## Technolohies used in this project:
+- HTML
+- CSS
+- JS/ES6
+- BEM
+- GRID
