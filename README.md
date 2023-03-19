@@ -10,3 +10,4 @@ List of tasks with the ability to change the status of a completed task and remo
 - JS/ES6
 - BEM
 - GRID
+![Gif-presentation](images/instructions.gif)
